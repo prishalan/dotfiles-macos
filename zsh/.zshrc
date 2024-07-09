@@ -1,7 +1,8 @@
 alias cls="clear"
 alias lsa="ls -al"
-alias bi="brew install"
-alias bic="brew install --cask"
+alias bri="brew install"
+alias bric="brew install --cask"
+alias brs="brew search"
 
 
 eval "$(starship init zsh)"
